@@ -101,7 +101,9 @@
 
 ###
 
-![Fire](https://i.ibb.co/zsBWjgB/profile.gif)
+<div align="center">
+![Fire](https://i.ibb.co/zsBWjgB/profile.gif)  
+</div>
 
 ###
 

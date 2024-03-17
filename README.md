@@ -102,7 +102,7 @@
 ###
 
 <div align="center">
-![Fire](https://i.ibb.co/zsBWjgB/profile.gif)  
+  <img src="https://i.ibb.co/zsBWjgB/profile.gif" alt="filer logo"  /> 
 </div>
 
 ###

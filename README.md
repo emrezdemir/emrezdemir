@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🥷TurkNet de  lider yazılım geliştiricisi (türkçesi çok havalı değilmi :) , ustabaşından hallice )<br>✨ Sorunları çözer...<br>📚 Sürekli öğrenir. (Sanırım rust öğreneceğim)<br>🎯 Goals: 2024 de açık kaynağa daha fazla destek vermek.<br>🎲 Fun fact: doom fan:P</p>
+<p align="left">🥷TurkNet de yazılım geliştiricisi <br>✨ Sorunları çözer...<br>📚 Sürekli öğrenir. (Sanırım rust öğreneceğim)<br>🎯 Goals: 2024 de açık kaynağa daha fazla destek vermek.<br>🎲 Fun fact: doom fan:P</p>
 
 ###
 
